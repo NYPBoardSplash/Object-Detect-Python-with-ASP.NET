@@ -35,3 +35,12 @@ Else you have to install pip first and install the following package using the f
 To run the program, simply type -->
 #python Flask.py 
 in command prompt
+
+-----------------------------------------------
+As the python program run in http://localhost:5000
+You might encouter CORS Problems,
+Solution: Simply install chrome extension:Allow-Control-Allow-Origin
+
+Use Case:
+Click those markers and it will show you the location with name with traffic images,
+A javascript-pop-out boxes will pop out and tell you how many cars has been detected and how are the status of traffic of the road.
